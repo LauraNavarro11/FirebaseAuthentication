@@ -2,7 +2,7 @@
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-2023.3.1-blue.svg?longCache=true&style=popout-square)
 
-*[Firebase](https://firebase.google.com/?hl=es)
+* [Firebase](https://firebase.google.com/?hl=es)
 
 ### We have the main screen where we can decide whether to log in or register.
 
